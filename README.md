@@ -8,7 +8,7 @@
 
 ## 2. 仓库使用
 
-仓库中会按照类别，罗列多个任务，不同类型的学生可以根据自己的情况选择不同的任务完成。任务的提交，可以参考[任务0](https://github.com/zxm-bupt/precultivate/blob/main/task-0/%E4%BB%BB%E5%8A%A1%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E8%80%83%E6%A0%B8%E6%96%B9%E5%BC%8F.md)。
+仓库中会按照类别，罗列多个任务，不同类型的学生可以根据自己的情况选择不同的任务完成。任务的提交，可以参考[任务0](https://github.com/BUPT-SKLoNST-CorenetGroup/precultivate/blob/main/task-0/%E4%BB%BB%E5%8A%A1%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E8%80%83%E6%A0%B8%E6%96%B9%E5%BC%8F.md)。
 
 每个任务分为三部分，任务概述、任务描述、需要掌握的内容。
 
